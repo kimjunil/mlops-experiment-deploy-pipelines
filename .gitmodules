@@ -1,0 +1,15 @@
+[submodule "deploy-pipeline"]
+	path = deploy-pipeline
+	url = https://github.com/KIMnJANG/deploy-pipeline.git
+[submodule "experiment-pipeline"]
+	path = experiment-pipeline
+	url = https://github.com/KIMnJANG/experiment-pipeline.git
+[submodule "mnist-model"]
+	path = mnist-model
+	url = https://github.com/KIMnJANG/mnist-model.git
+[submodule "web-app"]
+	path = web-app
+	url = https://github.com/KIMnJANG/web-app.git
+[submodule "data-version-control"]
+	path = data-version-control
+	url = https://github.com/KIMnJANG/data-version-control.git
